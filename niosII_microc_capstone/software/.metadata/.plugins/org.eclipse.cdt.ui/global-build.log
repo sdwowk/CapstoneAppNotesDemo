@@ -1,0 +1,40 @@
+
+**** Build of configuration Nios II for project demo ****
+
+make all 
+Info: Building ../demo_bsp/
+make --no-print-directory -C ../demo_bsp/
+[BSP build complete]
+[demo build complete]
+
+**** Build Finished ****
+
+**** Build of configuration Nios II for project demo ****
+
+make all 
+Info: Building ../demo_bsp/
+make --no-print-directory -C ../demo_bsp/
+[BSP build complete]
+[demo build complete]
+
+**** Build Finished ****
+
+**** Build of configuration Nios II for project demo ****
+
+make all 
+Info: Building ../demo_bsp/
+make --no-print-directory -C ../demo_bsp/
+[BSP build complete]
+[demo build complete]
+
+**** Build Finished ****
+
+**** Build of configuration Nios II for project demo ****
+
+make all 
+Info: Building ../demo_bsp/
+make --no-print-directory -C ../demo_bsp/
+[BSP build complete]
+[demo build complete]
+
+**** Build Finished ****
